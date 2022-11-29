@@ -15,4 +15,4 @@ MUJOCO Simulator
 ```cd ~/.mujoco/mujoco210/bin```
 
 
-```./simulator ../model/THORMANG_MJCF/Mujoco_THORMANG_RILAB/thormang_rilab.xml```
+```./simulator ../model/THORMANG_MJCF/thormang_rilab.xml```
